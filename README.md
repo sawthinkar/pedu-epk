@@ -88,3 +88,7 @@ NOTE: These links need to be categorized later.
     - Wp/ksw/လံာ်ကဘျံာ်လၢအဒိၣ်  
     <https://incubator.wikimedia.org/wiki/Wp/ksw/%E1%80%9C%E1%80%B6%E1%80%AC%E1%80%BA%E1%80%80%E1%80%98%E1%80%BB%E1%80%B6%E1%80%AC%E1%80%BA%E1%80%9C%E1%81%A2%E1%80%A1%E1%80%92%E1%80%AD%E1%81%A3%E1%80%BA>
     - Requests for new languages/Wikipedia Sgaw Karen <https://meta.wikimedia.org/wiki/Requests_for_new_languages/Wikipedia_Sgaw_Karen>
+
+## Keyman  
+
+Custom keyboards (https://keyman.com/developer/)
